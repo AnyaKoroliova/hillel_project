@@ -1,5 +1,6 @@
 a:hover{
     color:blue;
+    text-decoration: underline;
 }
 a {
     color: red;
